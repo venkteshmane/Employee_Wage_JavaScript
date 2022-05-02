@@ -1,0 +1,11 @@
+{
+  "name": "learningproblem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "UC10_EmpWage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
